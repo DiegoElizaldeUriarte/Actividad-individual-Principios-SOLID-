@@ -1,4 +1,4 @@
-#Aplicación del principio SOLID en movie_fetcher.py
+Aplicación del principio SOLID en movie_fetcher.py
 
 El principio SOLID es un conjunto de principios de diseño de software que se enfocan en facilitar el mantenimiento, la escalabilidad y la flexibilidad del código. A continuación, se detalla cómo se aplican estos principios en el archivo movie_fetcher.py.
 Principio de responsabilidad única (SRP)
